@@ -11,7 +11,7 @@ FUNCTION Main()
     hb_langSelect( "PT" )
 
     QOut("========================================")
-    QOut("         FICHA DE APRESENTA€ÇO          ")
+    QOut("         FICHA DE APRESENTA€ÇO         ")
     QOut("========================================")
     QOut("Nome   : " + cNome)
     QOut("Cidade : " + cCidade)
