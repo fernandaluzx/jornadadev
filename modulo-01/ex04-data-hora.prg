@@ -6,13 +6,13 @@ FUNCTION Main()
     LOCAL cCidade := "Campinas"
     LOCAL cCurso  := "Harbour/ADVPL"
     
-    //A funâ€¡Ã†o Date() pega a data do sistema, e DToC() a converte em texto
+    //A fun‡Æo Date() pega a data do sistema, e DToC() a converte em texto
     LOCAL cData   := DToC(Date()) 
     
-    // A funâ€¡Ã†o Time() retorna diretamente um texto com a hora atual
+    // A fun‡Æo Time() retorna diretamente um texto com a hora atual
     LOCAL cHora   := Time() 
 
-    //Comandos executÂ veis de configuraâ€¡Ã†o (vË†m logo apÂ¢s as variÂ veis)
+    //Comandos execut veis de configura‡Æo 
     hb_cdpSelect( "PT850" )
     hb_langSelect( "PT" )
 
@@ -22,7 +22,7 @@ FUNCTION Main()
     QOut("Nome   : " + cNome) 
     QOut("Cidade : " + cCidade) 
     QOut("Curso  : " + cCurso)
-    // Adiciona as novas linhas de tempo juntando as variÂ veis de texto
+    // Adiciona as novas linhas de tempo juntando as vari veis de texto
     QOut("Data   : " + cData) 
     QOut("Hora   : " + cHora) 
     QOut("========================================") 
