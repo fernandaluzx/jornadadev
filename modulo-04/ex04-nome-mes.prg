@@ -4,7 +4,8 @@ FUNCTION Main()
     LOCAL nMes := 0
     LOCAL cNomeMes := ""
 
-    QOut("=== NOME DO MES ===")
+    QOut("==== NOME DO MES ====")
+    QOut("")
  
 
     ACCEPT "Digite o numero do mes (1 a 12): " TO cMes
