@@ -5,7 +5,8 @@ FUNCTION Main()
     LOCAL nReajuste := 0
     LOCAL nNovoSalario := 0
 
-    QOut("=== REAJUSTE SALARIAL ===")
+    QOut("==== REAJUSTE SALARIAL ====")
+    QOut("")
 
     ACCEPT "Digite o salario atual: R$ " TO cSalario
     nSalario := Val(cSalario) 
