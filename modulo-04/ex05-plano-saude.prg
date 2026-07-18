@@ -5,7 +5,8 @@ FUNCTION Main()
     LOCAL nValorBase := 0
     LOCAL nValorTotal := 0
 
-    QOut("=== PLANO DE SAUDE ===")
+    QOut("==== PLANO DE SAUDE ====")
+    QOut("")
 
     ACCEPT "Digite a idade do titular: " TO cIdade
     nIdade := Val( cIdade )
