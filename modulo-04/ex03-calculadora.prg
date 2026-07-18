@@ -2,7 +2,8 @@ FUNCTION Main()
     LOCAL cValA := "", cValB := "", cOp := ""
     LOCAL nA := 0, nB := 0
 
-    QOut("=== CALCULADORA ===")
+    QOut("==== CALCULADORA ====")
+    QOut("")
 
     //Lendo o primeiro numero
     ACCEPT "Digite o 1o valor (A): " TO cValA
