@@ -13,7 +13,7 @@ FUNCTION Main()
     ACCEPT "Digite o numero de dependentes: " TO cDependentes
     nDependentes := Val(cDependentes)
 
-    //(Definindo o valor base por faixa etaria)
+    //Definindo o valor base por faixa etaria
     IF nIdade <= 25
         nValorBase := 180
     ELSEIF nIdade <= 40
