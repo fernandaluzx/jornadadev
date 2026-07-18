@@ -9,8 +9,8 @@ FUNCTION Main()
     QOut("Palavra 2: " + cTextoCurto)
 
     //TESTE 1: Usando apenas um sinal de igual (=)
-    //o Harbour compara s¢ at‚ o tamanho da palavra da direita
-    //como "Harbour" COME€A com "Harb", ele acha que ‚ igual
+    //o Harbour compara sÂ¢ atâ€š o tamanho da palavra da direita
+    //como "Harbour" COMEâ‚¬A com "Harb", ele acha que â€š igual
     lIgualdadeComum := (cTextoLongo = cTextoCurto)
 
     // TESTE 2: Usando dois sinais de igual (==)
@@ -21,6 +21,6 @@ FUNCTION Main()
     QOut("Usando '==' (Igualdade Exata):  " + iif(lIgualdadeExata, ".T. (Verdade)", ".F. (Falso)"))
     
     QOut("O '=' deu Verdadeiro porque 'Harbour' inicia com 'Harb'.")
-    QOut("O '==' deu Falso porque os tamanhos sao diferentes.")
+    QOut("O '==' deu Falso porque os tamanhos sÃ£o diferentes.")
 
 RETURN NIL
