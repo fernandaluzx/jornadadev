@@ -4,6 +4,7 @@ Nesse exercício, classifiquei cada uma das quatro situações com base nos trê
 
 Para deixar a entrega mais rica, registrei tanto o meu olhar humano quanto a realidade do computador exige.
 ---
+---
 
 ### A) "Some dois números."
 **Status:** Inválido 

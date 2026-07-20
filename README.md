@@ -29,11 +29,13 @@ jornadadev/
 │   ├── ex03-apresentação.prg
 │   ├── ex04-data-hora.prg
 ├── modulo-02/
-│   └── ex01-algoritmo-media.md
+│   └── ex01-algoritmo-valido.md
+│   └── ex02-pseudocodigo.md
+│   └── ex03-fluxograma-desconto.md
+│   └── ex04-refinamento.md
+│   └── ex05-reflexao.md
 ├── modulo-03/
-│   └── ex01-mini-projeto/
-│       ├── main.prg
-│       └── utils.prg
+│   └── ex01-declaracoes.prg
 ├── ...
 └── modulo-10/
 ```

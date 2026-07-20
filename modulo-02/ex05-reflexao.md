@@ -3,6 +3,7 @@
 Nesse arquivo, apresento minha reflexão sobre a famosa afirmação de que "o computador não erra" e o impacto que isso pode trazer para quem programa.
 
 ---
+---
 
 ### Minha Análise:
 

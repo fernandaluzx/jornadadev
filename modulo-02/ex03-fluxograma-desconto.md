@@ -4,6 +4,8 @@ Este exercício representa o fluxo lógico para calcular o desconto de 10% em co
 
 O diagrama abaixo foi gerado automaticamente usando a tecnologia **Mermaid**, que renderiza o desenho diretamente do texto.
 
+---
+
 ```mermaid
 graph TD
     %% Define o início e fim com forma oval

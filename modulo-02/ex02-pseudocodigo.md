@@ -4,6 +4,7 @@ Neste exercício, estruturei a lógica de três problemas simples utilizando o c
 Para a construção das respostas, utilizei as instruções básicas padrão: `Leia` (entrada), `Escreva` (saída), `Se/Senão` (decisão) e `<-` (atribuição)
 
 ---
+---
 
 ### A) Calcular a área de um retângulo (base x altura) [cite: 21]
 

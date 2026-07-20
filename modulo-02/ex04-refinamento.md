@@ -5,7 +5,7 @@ Esse exercício aplica a técnica do refinamento sucessivo para detalhar a lógi
 Abaixo, o fluxo está dividido em dois níveis de detalhamento:
 
 ---
-
+---
 ### 📍 Nível 1: Visão Geral 
 
 1. Registrar os itens da compra e somar os valores.
